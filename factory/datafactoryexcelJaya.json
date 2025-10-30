@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryexcelJaya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5faa7ceb-0b98-4525-bf6e-3453df68c621",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
